@@ -1,0 +1,51 @@
+[
+  {
+    "content": "SOFTWARE DEVELOPERS   Create a persistent web identifier (such as a Digital Object Identifier (DOI)) for your software. Three potential ways to get a persistent identifier are as follows:\n  Provide clear acknowledgement instructions and place this language in the appropriate files and webpages.\n  Provide a license with your software.\n  ",
+    "description": "",
+    "tags": null,
+    "title": "For Software Developers",
+    "uri": "/recommendations/fordevs/"
+  },
+  {
+    "content": "EARTHCUBE SOFTWARE CITATION As the EarthCube program winds down, these software citation recommendations are intended to provide guidance for current EC-funded software development projects on how to ensure persistent identification, citability, and discoverability for EarthCube-funded software.\nThese recommendations also provide templates and strategies for subsequent software development projects going forward.\n",
+    "description": "",
+    "tags": null,
+    "title": "Overview",
+    "uri": "/overview/"
+  },
+  {
+    "content": "SOFTWARE USERS  Cite the software you use, whether created by you or somebody else Use a consistent set of information in your software citations  ESIP Example Citation GuidelineAuthor. (Publication Year). Title. Version No. Publisher. PID URL. Access Date.\n ",
+    "description": "",
+    "tags": null,
+    "title": "For Software Users",
+    "uri": "/recommendations/forusers/"
+  },
+  {
+    "content": "COMMON QUESTIONS ",
+    "description": "",
+    "tags": null,
+    "title": "FAQ",
+    "uri": "/faq/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Categories",
+    "uri": "/categories/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Recommendations",
+    "uri": "/recommendations/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Tags",
+    "uri": "/tags/"
+  }
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommendations on EarthCube Software Citation</title>
+    <link>http://example.org/recommendations/</link>
+    <description>Recent content in Recommendations on EarthCube Software Citation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Software Developers</title>
+      <link>http://example.org/recommendations/fordevs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/recommendations/fordevs/</guid>
+      <description>SOFTWARE DEVELOPERS   Create a persistent web identifier (such as a Digital Object Identifier (DOI)) for your software. Three potential ways to get a persistent identifier are as follows:
+  Provide clear acknowledgement instructions and place this language in the appropriate files and webpages.
+  Provide a license with your software.
+  </description>
+    </item>
+    <item>
+      <title>For Software Users</title>
+      <link>http://example.org/recommendations/forusers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/recommendations/forusers/</guid>
+      <description>SOFTWARE USERS  Cite the software you use, whether created by you or somebody else Use a consistent set of information in your software citations  ESIP Example Citation GuidelineAuthor. (Publication Year). Title. Version No. Publisher. PID URL. Access Date.
+ </description>
+    </item>
+  </channel>
+</rss>
