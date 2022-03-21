@@ -1,6 +1,6 @@
 [
   {
-    "content": "EARTHCUBE SOFTWARE CITATION As the EarthCube program winds down, these software citation recommendations are intended to provide guidance for current EC-funded software development projects on how to ensure persistent identification, citability, and discoverability for EarthCube-funded software.\nThese recommendations also provide templates and strategies for subsequent software development projects going forward.\n",
+    "content": "EARTHCUBE SOFTWARE CITATION As the EarthCube program concludes, these software citation recommendations are intended to provide guidance for current EC-funded software development projects on how to ensure persistent identification, citability, and discoverability for EarthCube-funded software.\nIt is recognized that software citation is under-utilized and that many excellent projects have gone under- and unrecognized because they were not appropriately cited in the contexts they were used. In some cases, this could have been improved by explicit citation instructions provided to end users\nThese recommendations also provide templates and strategies for subsequent software development projects going forward.\nPlease begin with the Recommendations section to work through the recommendations for developers of software or end users.\n",
     "description": "",
     "tags": null,
     "title": "Overview",
@@ -21,7 +21,7 @@
     "uri": "/ec-sw-citation/recommendations/fordevs/"
   },
   {
-    "content": "SOFTWARE USERS Cite the software you use Whether created by you or somebody else software needs citation. The more software is cited, the more likely its creators will be acknowledged for the contribution their software has made to research, applications or wherever it is used.\nUse consistent information in your software citations The ESIP citation guideline suggests your citation minimally include title, version, publication year, PID, Publisher, author, URL and access date as shown in this example:\nESIP Example Citation GuidelineAuthor. (Publication Year). Title. Version No. Publisher. PID URL. Access Date.\n ",
+    "content": "SOFTWARE USERS Cite the software you use Whether created by you or somebody else software needs citation. The more software is cited, the more likely its creators will be acknowledged for the contribution their software has made to research, applications or wherever it is used.\nUse consistent information in your software citations The Earth Science Informatics Partners (ESIP) citation guideline suggests your citation minimally include title, version, publication year, PID (DOI) URL, Publisher, author and access date as shown in this example:\nESIP Example Citation GuidelineAuthor. (Publication Year). Title. Version No. Publisher. PID URL. Access Date.\n ",
     "description": "",
     "tags": null,
     "title": "For Software Users",

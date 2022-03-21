@@ -20,7 +20,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/forusers/</guid>
       <description>SOFTWARE USERS Cite the software you use Whether created by you or somebody else software needs citation. The more software is cited, the more likely its creators will be acknowledged for the contribution their software has made to research, applications or wherever it is used.
-Use consistent information in your software citations The ESIP citation guideline suggests your citation minimally include title, version, publication year, PID, Publisher, author, URL and access date as shown in this example:</description>
+Use consistent information in your software citations The Earth Science Informatics Partners (ESIP) citation guideline suggests your citation minimally include title, version, publication year, PID (DOI) URL, Publisher, author and access date as shown in this example:</description>
     </item>
   </channel>
 </rss>
