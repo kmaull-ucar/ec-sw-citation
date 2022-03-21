@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MPAS on EarthCube Software Citation</title>
-    <link>https://kmaull-ucar.github.io/ec-software-citation/examples/mpas/</link>
+    <link>https://kmaull-ucar.github.io/ec-sw-citation/examples/mpas/</link>
     <description>Recent content in MPAS on EarthCube Software Citation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kmaull-ucar.github.io/ec-software-citation/examples/mpas/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kmaull-ucar.github.io/ec-sw-citation/examples/mpas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

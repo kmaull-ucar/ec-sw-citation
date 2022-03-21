@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unidata IDV on EarthCube Software Citation</title>
-    <link>https://kmaull-ucar.github.io/ec-software-citation/examples/unidata/</link>
+    <link>https://kmaull-ucar.github.io/ec-sw-citation/examples/unidata/</link>
     <description>Recent content in Unidata IDV on EarthCube Software Citation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kmaull-ucar.github.io/ec-software-citation/examples/unidata/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kmaull-ucar.github.io/ec-sw-citation/examples/unidata/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

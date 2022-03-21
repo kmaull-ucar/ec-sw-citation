@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/overview/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/overview/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/recommendations/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/recommendations/fordevs/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/fordevs/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/recommendations/forusers/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/forusers/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/recommendations/fordevs/identifiers/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/fordevs/identifiers/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/recommendations/fordevs/acknowledgements/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/fordevs/acknowledgements/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/recommendations/fordevs/licenses/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/fordevs/licenses/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/resources/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/resources/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/examples/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/examples/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/examples/unidata/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/examples/unidata/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/examples/wrf/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/examples/wrf/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/examples/mpas/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/examples/mpas/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/faq/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/faq/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/categories/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/categories/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-software-citation/tags/</loc>
+    <loc>https://kmaull-ucar.github.io/ec-sw-citation/tags/</loc>
   </url>
 </urlset>
