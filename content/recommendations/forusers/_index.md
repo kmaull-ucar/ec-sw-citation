@@ -12,8 +12,8 @@ Whether created by you or somebody else software needs citation.  The more softw
 
 ### Use consistent information in your software citations
 
-The ESIP citation guideline suggests your citation minimally include _title_, _version_, _publication year_, _PID_, _Publisher_, _author_, _URL_ and _access date_ as shown in this example:
+The Earth Science Informatics Partners (ESIP) citation guideline suggests your citation minimally include **_title_**, **_version_**, **_publication year_**, **_PID (DOI) URL_**, **_Publisher_**, **_author_** and **_access date_** as shown in this example:
 
-{{% notice  note "ESIP Example Citation Guideline" %}}
+{{% notice  info  "ESIP Example Citation Guideline" %}}
 Author. (Publication Year). Title. Version No. Publisher. PID URL. Access Date.
 
