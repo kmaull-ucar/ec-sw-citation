@@ -14,4 +14,3 @@ These recommendations also provide templates and strategies for subsequent softw
 
 
 Please begin with the [Recommendations](../recommendations/) section to work through the recommendations for developers of software or end users.
-
