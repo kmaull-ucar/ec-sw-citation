@@ -60,7 +60,7 @@ plug-in has been activated.
 
 {{% expand "A lot of the items in my repository are Jupyter Notebooks, should I mint a DOI for each notebook?" %}}
 
-It is becoming commonplace for project software to be developed in the form of Jupyter Notebooks, and in some cases demonstration code is also in Jupyter.  The recommendation for Jupyter is to consider the logical cohesion of the "software" within the notebook (or notebooks).  If a notebook can be considered a **standalone artifact** and does not have dependencies with other notebooks or code not part of the software within the notebook, then it would be advised that only one DOI is minted.  If, however, a notebook is part of a larger set of notebooks or other software, it is advised you mint a DOI for the _collection_ of items and not just the notebook alone, especially if the collection is what you would like cited.  
+It is becoming commonplace for project software to be developed in the form of Jupyter Notebooks, and in some cases demonstration code is also in Jupyter.  The recommendation for Jupyter is to consider the logical cohesion of the "software" within the notebook (or notebooks).  If a notebook can be considered a **standalone artifact** and does not have dependencies with other notebooks or code not part of the software within the notebook, then it would be advised that a DOI is minted for that notebook.  If, however, a notebook is part of a larger set of notebooks or other software, it is advised you mint a DOI for the _collection_ of items and not just the notebook alone, especially if the collection is what you would like cited.  
 
 One easy way to think of it is if the DOI was given out to the notebook (or collection), would it represent a useful whole as distributed.
 
