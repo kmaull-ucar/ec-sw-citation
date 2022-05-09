@@ -22,5 +22,9 @@ To learn more about these recommendations, [go to the overview](./overview/) sec
 
 Should you need additional assistance or have questions, comments or concerns, please contact [contact@]() for more information.
 
----
-The EarthCube Program was funded by the National Science Foundation, NSF awards [1](), [2](), [3]() and [4]().
+--- 
+This material is based upon work supported by the National Science 
+Foundation under Grant Number (1928208).  Any opinions, findings, and 
+conclusions or recommendations expressed in this material are those of 
+the author(s) and do not necessarily reflect the views of the National 
+Science Foundation.
