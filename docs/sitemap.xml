@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/overview/</loc>
+    <loc>/overview/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/</loc>
+    <loc>/recommendations/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/fordevs/</loc>
+    <loc>/recommendations/fordevs/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/forusers/</loc>
+    <loc>/recommendations/forusers/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/fordevs/identifiers/</loc>
+    <loc>/recommendations/fordevs/identifiers/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/fordevs/acknowledgements/</loc>
+    <loc>/recommendations/fordevs/acknowledgements/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/recommendations/fordevs/licenses/</loc>
+    <loc>/recommendations/fordevs/licenses/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/resources/</loc>
+    <loc>/resources/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/examples/</loc>
+    <loc>/examples/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/examples/unidata/</loc>
+    <loc>/examples/unidata/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/examples/wrf/</loc>
+    <loc>/examples/wrf/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/examples/mpas/</loc>
+    <loc>/examples/mpas/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/faq/</loc>
+    <loc>/faq/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   <url>
-    <loc>https://kmaull-ucar.github.io/ec-sw-citation/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
